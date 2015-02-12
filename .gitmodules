@@ -5,3 +5,6 @@
 	path = psychic-avenger
   url = git@github.com:christi3k/psychic-avenger.git
   branch = RELEASE_B
+[submodule "furry-octo-nemesis"]
+	path = furry-octo-nemesis
+	url = git@github.com:christi3k/furry-octo-nemesis.git
