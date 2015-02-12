@@ -1,6 +1,3 @@
-[submodule "scaling-octo-wallhack"]
-	path = scaling-octo-wallhack
-	url = git@github.com:christi3k/scaling-octo-wallhack.git
 [submodule "furry-octo-nemesis"]
 	path = furry-octo-nemesis
 	url = git@github.com:christi3k/furry-octo-nemesis.git
