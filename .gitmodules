@@ -1,3 +1,6 @@
 [submodule "furry-octo-nemesis"]
 	path = furry-octo-nemesis
 	url = git@github.com:christi3k/furry-octo-nemesis.git
+[submodule "psychic-avenger"]
+	path = psychic-avenger
+	url = git@github.com:christi3k/psychic-avenger.git
